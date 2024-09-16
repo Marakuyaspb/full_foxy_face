@@ -1,0 +1,3 @@
+source mf/bin/activate
+cd foxy_face
+npm run dev
